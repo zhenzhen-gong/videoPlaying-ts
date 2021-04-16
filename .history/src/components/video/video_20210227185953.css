@@ -1,0 +1,30 @@
+/*最外层*/
+.video {}
+
+/*内容区*/
+.video-content {}
+
+/*控制区*/
+.video-controls {}
+
+/*控制区-进度条*/
+.video-progress {}
+.video-progress-now {}
+.video-progress-suc {}
+.video-progress-bar {}
+
+/*控制区-播放控制*/
+.video-play {}
+.video-play i {}
+
+.video-time {}
+.video-time span {}
+
+.video-full {}
+.video-full i {}
+
+.video-volume {}
+.video-volume i {}
+.video-volprogress {}
+.video-volprogress-now {}
+.video-volprogress-bar {}

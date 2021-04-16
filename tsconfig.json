@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "module": "ES6",  // 模板使用es6语法
+        "target": "ES5"  // 最终转换成es5输出
+    }
+}
